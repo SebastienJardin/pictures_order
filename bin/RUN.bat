@@ -1,0 +1,2 @@
+.\BATCH_RESIZE.pl
+PAUSE
